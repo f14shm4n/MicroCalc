@@ -1,1 +1,5 @@
 
+[submodule "shared/f14.MessageBus"]
+	path = shared/f14.MessageBus
+	url = https://github.com/f14shm4n/f14.MessageBus
+	branch = dev
